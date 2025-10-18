@@ -4,9 +4,8 @@
 
 ### A modern Microsoft Teams-style interface built with pure HTML & CSS
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="60" alt="HTML5 Logo"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="60" alt="CSS3 Logo"/>
 <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="60" alt="Design Icon"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="60" alt="CSS3 Logo"/>
 
 ---
 
