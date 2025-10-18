@@ -12,7 +12,8 @@
 
 ### 🚀 **Live Preview**
 
-👉 [**View Demo on GitHub Pages**](https://anujhimire08.github.io/Microsoft-Teams/)  
+👉 [**View Demo on GitHub Pages**](https://anujghimire08.github.io/Microsoft-Teams/)  
+
 
 </div>
 
