@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(img101.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+.container {
+  background-color: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(50px);
+  width: 300px;
+  height: auto;
+  border-radius: 7px;
+  padding: 20px;
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+.microsoft {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.container img {
+  width: 100px;
+  cursor: pointer;
+  text-align: center;
+}
+.container .intro {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.container .logo img {
+  width: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.container .greet {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.container .greet span {
+  color: grey;
+  font-size: 10px;
+}
+.container .greet a {
+  color: #006ad9;
+  text-decoration: none;
+  font-size: 10px;
+}
+.container .greet a:hover {
+  text-decoration: 1px solid #006ad9 underline;
+}
+.container .content {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  gap: 4px;
+  margin-bottom: 30px;
+}
+.container .content p {
+  font-size: 13px;
+  color: grey;
+}
+button {
+  width: 100%;
+  color: white;
+  background-color: #006ad9;
+  border: none;
+  padding: 10px 0px;
+  margin-bottom: 10px;
+  font-weight: 550;
+  font-size: 12px;
+}
+button:hover {
+  cursor: pointer;
+  background-color: #0069d9b3;
+}
+button:active {
+  transform: scale(0.99);
+}
+.learn {
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+footer a {
+  text-decoration: none;
+  font-size: 10px;
+  color: #006ad9;
+}
+footer a:hover {
+  text-decoration: 1px solid #006ad9 underline;
+}
