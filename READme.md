@@ -20,7 +20,7 @@
 
 ## 📸 Preview
 
-![Preview Screenshot](images/ProjectPreviewMS.png)  
+![Preview Screenshot](images/ProjectPreview.png)  
 
 
 ---
